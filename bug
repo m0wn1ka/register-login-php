@@ -1,0 +1,7 @@
+to navigate to userpage.php 
+we used cookies 
+so without giving valid username and password login will not be validated so necessary cookie value will not be generated to navigate to userpage.php
+------------------------
+but by changing the cookie value in browser tools and refresing page we can navigate to usrpage.php
+---------
+so instead of using cookies we need to use sessions
